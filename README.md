@@ -53,29 +53,6 @@ Hi! I'm Adit, a Full Stack Software Engineer focused on building fast, scalable,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-nu-tan.vercel.app/api?username=adfity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-nu-tan.vercel.app/api/top-langs/?username=adfity&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adfity&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adfity&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adfity&theme=react-dark&hide_border=true" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
@@ -84,14 +61,4 @@ Hi! I'm Adit, a Full Stack Software Engineer focused on building fast, scalable,
   <img src="https://raw.githubusercontent.com/adfity/adfity/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> 💡 Snake ini baru muncul setelah kamu setup file `snake.yml` di `.github/workflows/` dan jalankan sekali dari tab Actions.
-
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adfity&color=blueviolet&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=100&section=footer" />
-</p>
